@@ -21,9 +21,32 @@ Centralizar y analizar los resultados históricos del Ironman 70.3 Lima para fac
 - Power BI
 - Git/GitHub
 
+## Roadmap
+
+### MVP 1
+- [ ] Dashboard base
+- [ ] KPIs
+- [ ] Participantes
+- [ ] Tiempo promedio
+
+### MVP 2
+- [ ] Evolución anual
+- [ ] Top países
+- [ ] Distribución de tiempos
+
+### MVP 3
+- [ ] Benchmark por percentiles
+- [ ] Top rankings
+- [ ] Comparación por categorías
+
+### MVP 4
+- [ ] Proyección Ironman 2027
+- [ ] Documentación final
+- [ ] Publicación en GitHub
+
 ## Estado del proyecto
 
-- [ ] Recolección de datos
+- [X] Recolección de datos
 - [ ] Limpieza de datos
 - [ ] Dataset maestro
 - [ ] Análisis exploratorio
